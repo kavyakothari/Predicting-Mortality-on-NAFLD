@@ -1,2 +1,3 @@
 # Predicting-Mortality-on-NAFLD
 Predicting-Mortality-on-NAFLD
+By examining data sets from population research, this longitudinal study seeks to predict outcomes in people with non-alcoholic fatty liver disease (NAFLD). NAFLD patients and matched controls in the research were monitored for metabolic abnormalities, cardiac endpoints, and mortality. Using this substantial dataset, the project intends to create predictive models for metabolic abnormalities, cardiac events, and mortality in NAFLD. The results of this study will aid in improving the understanding of the long-term effects of NAFLD and in the creation of focused therapies to enhance patient outcomes.
