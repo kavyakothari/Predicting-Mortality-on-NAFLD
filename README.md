@@ -1,4 +1,4 @@
- /* Predicting-Mortality-on-NAFLD */
+
 <h1>Predicting-Mortality-on-Non Alcoholic Fatty Liver Diseases</h1>
 
 ### Abstract
